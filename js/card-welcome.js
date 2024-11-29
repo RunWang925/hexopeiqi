@@ -1,5 +1,5 @@
 window.IP_CONFIG = {
-	API_KEY: 'RkpZUXb9t9BSnJv1sQpbO1R48Q', // API密钥 申请地址：https://api.76.al/
+	API_KEY: 'k039dbPixPMmMffvnGP9n4jLxA', // API密钥 申请地址：https://api.76.al/
 	BLOG_LOCATION: {
 		lng: 113.666, // 经度
 		lat: 34.666 // 纬度
